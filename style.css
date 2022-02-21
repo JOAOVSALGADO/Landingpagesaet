@@ -1,0 +1,423 @@
+body {
+    background-image:linear-gradient(to bottom, #104169,#839fb6, #d6dee6,#ebf1f5, #feffff);
+    width: 100%;
+}
+
+
+.navbar {
+    box-shadow: 4px 4px 20px;
+    
+}
+
+.h3 {
+    background-color: rgb(212, 22, 22);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.logosaet {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 100vh;
+}
+
+.fotopr {
+    margin-left: 450px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 20px;
+    background-color: rgba(95, 159, 212, 0.596);
+    width: 450px;
+    box-shadow: 4px 4px 20px;
+}
+.logosaet{
+    margin-left: -120px;
+}
+.curso {
+    
+    margin-left: -200px;
+    font-size: 30px;
+    color: #ffffff;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.teologia {
+    border-radius: 10px;
+    width: 850px;
+    font-size: 70px;
+    color: #edf3f5;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.teologia1 {
+    font-size: 70px;
+    color: #edf0f8;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h5 {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: rgb(14, 11, 11);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.h52 {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    
+
+}
+.divmaluca{align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+.p5 {
+    padding: 30px;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.p {
+    color: #e5e5ee;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 40px;
+    
+
+}
+
+.modalidade {
+    color: #000000;
+    font-size: 30px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.cls {
+    
+
+    background-size: 100%;
+    margin-top: -100px;
+    z-index: -1;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+
+.iconmenu {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: inline-flex;
+
+
+}
+
+.buton {
+    background-color: rgb(245, 237, 237);
+    width: 500px;
+    height: 60px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 40px black;
+}
+
+.buton:hover {
+    background-color: rgb(150, 163, 82);
+    transform: 1.1;
+}
+
+.inscreva {
+    color: black;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+.data {
+
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.mod {
+    color: rgb(252, 247, 247);
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+footer {
+    background-image:linear-gradient(to bottom, #104169,#5e82a0, #516f8d,#48738f, #104169);
+    width:100%;
+    
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.iconmenu {
+
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+
+}
+
+
+.logonadia {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    justify-content: center;
+
+
+}
+
+.fotonadia {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    box-shadow: 1px 1px 10px;
+    border-radius: 10px;
+}
+
+.navbar {
+    background-color: rgb(37, 37, 107);
+    box-shadow: 1px 1px 10px;
+    margin: 0;
+
+}
+
+.quemsou {
+    
+    margin-top: 200px;
+}
+.redes{
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.saibamais {
+
+    background-color: rgb(41, 6, 197);
+    width: 300px;
+    height: 100px;
+    color: white;
+    font-size: 40px;
+    border-radius: 10px;
+    margin-top: 30px;
+    box-shadow: 2px 2px 10px rgb(0, 0, 0);
+
+}
+.saibamais1{
+    background-color: rgb(41, 6, 197);
+    width: 400px;
+    height: 65px;
+    color: white;
+    font-size: 46px;
+    border-radius: 5px;
+    
+    box-shadow: 2px 2px 10px rgb(0, 0, 0);
+}
+.h1class {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+.contato {
+    border-radius: 8px;
+    background-color: rgba(228, 15, 15, 0.575);
+    padding: 30px;
+    box-shadow: 2px 2px 15px;
+    z-index: 1;
+}
+.correto{
+  
+}
+
+.divcomfoto {
+
+    z-index: -1;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.formulario1 {
+    width: 200px;
+    height: 40px;
+    border: 1;
+    border-radius: 5px;
+    
+
+}
+
+.enviar {
+    width: 350px;
+}
+
+.cliquee {
+    color: rgb(26, 26, 16);
+    justify-content: center;
+    text-align: center;
+}
+
+.botaoenviar {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.col3:hover {
+    transform: scale(1.1);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 10px;
+}
+
+h4 {
+    color: white;
+}
+
+.iconmenu {
+
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+
+
+
+}
+
+.testando {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.cardsclasse {
+    padding: 50px;
+    background-color: rgba(18, 155, 218, 0.479);
+    width: 75%;
+    box-shadow: 10px 10px 20px;
+    border-radius: 10px;
+}
+
+.focomissao {
+    background-color: rgba(224, 78, 10, 0.52);
+    box-shadow: 4px 4px 20px;
+}
+
+.alvo {
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+
+}
+
+.tamanhoalvo {
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
+
+
+}
+
+.descer {
+    margin-top: 35px;
+
+
+
+}
+
+.missaovalor {
+  
+    background-color: white;
+    width: 100%;
+    box-shadow: 3px 3px 10px 10px rgba(17, 17, 20, 0.582);
+
+    
+}
+
+.video {
+    
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+
+.metodologia {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.teste1 {
+    
+    justify-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.teste2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fotodepoimento{
+    background-color: rgba(250, 250, 250, 0.02);
+     
+}
