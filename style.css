@@ -318,7 +318,9 @@ h4 {
 
 
 }
-
+.pr{
+    margin-left: -25px;
+}
 .testando {
     justify-content: center;
     align-items: center;
