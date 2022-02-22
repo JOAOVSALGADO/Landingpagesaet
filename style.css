@@ -29,9 +29,12 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 .teologia1 {
-    font-size: 80px;
+    font-size: 70px;
     color: #edf0f8;
-
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+    text-align: center;
     font-family: 'Times New Roman', Times, serif;
 }
 
@@ -216,6 +219,10 @@ footer {
     text-decoration: none;
 }
 .cor{
+    color: white;
+}
+.cor1{
+    font-size: 40px;
     color: white;
 }
 .saibamais1{
